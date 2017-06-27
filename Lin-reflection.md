@@ -1,0 +1,5 @@
+1. Prior to the GPS session, I had a rudimentary concept of merging conflicts, but there were no assignments that had us apply or make merging conflicts. As such, I wasn't really sure how one would resolve them.
+2. Pull requests and merge conflicts were strongly covered by the GPS, so I thought it was extremely helpful.
+3. I often asked my partner reinforcing questions about how/what commands should be used, but we both asked our guide questions about what was going on with Git and Github when we made and merged branches.
+4. I feel that I have an acceptable grasp of what we covered, but I'm curious as to how to revert back to different versions using Git. I'm also unaware of how the hidden ".git" directory works and what files are on there.
+5. My first experience was really pleasant - I was a little apprehensive because I didn't how much chemistry there would be between my partner and me, but we hit it off well and were able to tackle the problems efficiently.
